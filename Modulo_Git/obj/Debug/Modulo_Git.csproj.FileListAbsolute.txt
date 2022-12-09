@@ -1,0 +1,6 @@
+C:\Users\olive\Documents\CURSOS\DEVSTARS\C#DEVSTARS\Modulo_Git\Modulo_Git\bin\Debug\Modulo_Git.exe
+C:\Users\olive\Documents\CURSOS\DEVSTARS\C#DEVSTARS\Modulo_Git\Modulo_Git\bin\Debug\Modulo_Git.pdb
+C:\Users\olive\Documents\CURSOS\DEVSTARS\C#DEVSTARS\Modulo_Git\Modulo_Git\obj\Debug\Modulo_Git.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\CURSOS\DEVSTARS\C#DEVSTARS\Modulo_Git\Modulo_Git\obj\Debug\Modulo_Git.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\CURSOS\DEVSTARS\C#DEVSTARS\Modulo_Git\Modulo_Git\obj\Debug\Modulo_Git.exe
+C:\Users\olive\Documents\CURSOS\DEVSTARS\C#DEVSTARS\Modulo_Git\Modulo_Git\obj\Debug\Modulo_Git.pdb
