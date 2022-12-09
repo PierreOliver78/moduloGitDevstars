@@ -38,6 +38,7 @@ namespace Modulo_Git
                 //git push
 
                 //git log --oneline
+                //git ignore
             }
             #endregion
         }
