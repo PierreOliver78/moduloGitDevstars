@@ -14,10 +14,17 @@ namespace Modulo_Git
              * ao final exiba o resultado no console.
              */
         }
+        Console.WriteLine("Digite 1 para iniciar o programa e digite 0 para sair")
+        Console.WriteLine("Informe o valor a ser somado")
 
         static int Soma(int a, int b)
         {
             return a + b;
-        }   
+        } 
+        
+        static int Subtracao (int a, int b)
+        {
+            return a - b;
+        }
     }
 }
