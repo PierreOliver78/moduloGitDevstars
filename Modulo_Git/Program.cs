@@ -21,9 +21,8 @@ namespace Modulo_Git
                 int a, b;
                 Console.WriteLine("Informe o valor dos numeros a serem somados");
                 a = int.Parse(Console.ReadLine());
-                b = int.Parse(Console.ReadLine());
-                int resultado = Soma(a, b);
-                Console.WriteLine("Soma dos valores é igual a " + resultado);
+                b = int.Parse(Console.ReadLine());                
+                Console.WriteLine("Soma dos valores é igual a " + Soma(a,b));
                 Console.WriteLine("Se desejar repetir digite 1 senão digite 0.");
                 opcao = int.Parse(Console.ReadLine());
 
@@ -31,10 +30,18 @@ namespace Modulo_Git
             }
             #endregion
 
-            //Console.WriteLine("Informe o valor a ser somado");
+            #region INSTRUCAO GIT
+            {
+                //Console.WriteLine("Informe o valor a ser somado");
+                //git add .
+                //git commit -m 
+                //git push
 
+                //git log --oneline
+            }
+            #endregion
         }
-        
+
 
         static int Soma(int a, int b)
         {
