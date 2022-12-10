@@ -38,7 +38,10 @@ namespace Modulo_Git
                 //git push
 
                 //git log --oneline
-                //git ignore
+                //git ignore teste
+                //git stash (Reserva o job no momento/enquanto resolvo outros commit)
+                //git stash apply(Puxa o code novamente)
+
             }
             #endregion
         }
